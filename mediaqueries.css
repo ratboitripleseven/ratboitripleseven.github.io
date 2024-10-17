@@ -102,4 +102,8 @@
     .text-container {
         text-align: justify;
     }
+    .project-img {
+        max-width: 500;
+        height: auto;
+    }
 }
